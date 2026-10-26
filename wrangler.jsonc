@@ -1,0 +1,11 @@
+{
+  "name": "rezoxview1",
+  "main": "worker.js",
+  "compatibility_date": "2025-09-01",
+  "vars": { "SUPABASE_URL": "https://jwnierpbwzekpazljcot.supabase.co" },
+  "assets": {
+    "directory": "./",
+    "binding": "ASSETS",
+    "run_worker_first": ["/fx", "/fetch", "/ping", "/signup", "/candles", "/symbols"]
+  }
+}

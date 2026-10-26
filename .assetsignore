@@ -1,0 +1,12 @@
+worker.js
+wrangler.jsonc
+schema.sql
+README.md
+.assetsignore
+mt5_bridge.py
+requirements.txt
+START.bat
+node_modules
+.wrangler
+.git
+.dev.vars
